@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+    <Hosts>
+	<Host city="Калининград">https://2gis.ru/kaliningrad</Host>
+	<Host city="Москва">https://2gis.ru/moscow</Host>
+	<Host city="Санкт-Петербург">https://2gis.ru/spb</Host>
+	<Host city="Сочи">https://2gis.ru/sochi</Host>
+	<Host city="Екатеринбург">https://2gis.ru/ekaterinburg</Host>
+	<Host city="Барнаул">https://2gis.ru/barnaul</Host>
+	<Host city="Новосибирск">https://2gis.ru/novosibirsk</Host>
+	<Host city="Кемерово">https://2gis.ru/kemerovo</Host>
+	<Host city="Красноярск">https://2gis.ru/krasnoyarsk</Host>
+	<Host city="Иркутск">https://2gis.ru/irkutsk</Host>
+	<Host city="Владивосток">https://2gis.ru/vladivostok</Host>
+	<Host city="Чита">https://2gis.ru/chita</Host>
+	<Host city="Казань">https://2gis.ru/kazan</Host>
+	<Host city="Уфа">https://2gis.ru/ufa</Host>
+	<Host city="Омск">https://2gis.ru/omsk</Host>
+	<Host city="Улан-Удэ">https://2gis.ru/ulanude</Host>
+	<Host city="Краснодар">https://2gis.ru/krasnodar</Host>
+    </Hosts>
+</Config>
